@@ -33,7 +33,7 @@
     "gulp-if": "^2.0.2",
     "gulp-sass": "^3.0.0",
     "gulp-uglify": "^2.0.0",
-    "serve-static": "^1.11.2",
+    "serve-static": "^1.16.0",
     "webpack-stream": "^3.2.0"
   }
 }
